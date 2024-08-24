@@ -19,6 +19,13 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+npx json-server -w data/tasks.json
+```
+
+
+### Compile and Hot-Reload for Development
+
+```sh
 npm run dev
 ```
 
