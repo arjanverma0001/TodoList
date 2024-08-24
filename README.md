@@ -16,7 +16,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Setup a Json Environment for fetching and updating data.
 
 ```sh
 npx json-server -w data/tasks.json
